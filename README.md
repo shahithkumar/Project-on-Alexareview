@@ -8,6 +8,9 @@ This project aims to analyze customer reviews for Amazon Alexa products. The pri
 2. Objectives
 
 Clean and preprocess the review data.
+
 Analyze and visualize trends in customer feedback and ratings.
+
 Apply text processing techniques to prepare the data for modeling.
+
 Build and evaluate predictive models for feedback classification.
